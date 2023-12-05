@@ -9,7 +9,7 @@ public class Main{
 
     private static final String url = "jdbc:mysql://localhost:3306/hotal_db";
     private static final String userName = "root";
-    private  static final  String passWord = "W7301@jqir#";
+    private  static final  String passWord = "";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException{
         try{
